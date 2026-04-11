@@ -5,3 +5,4 @@ __pycache__/
 docs
 spark-ml-notebooks
 spark-assignment/spark-assignment.pdf
+spark-assignment/data/
