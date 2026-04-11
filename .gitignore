@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+.DS_Store
+*.ipynb_checkpoints/
+docs
+spark-ml-notebooks
+spark-assignment/spark-assignment.pdf
